@@ -16,6 +16,13 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+
+.text-justify {
+    display: table-cell;
+    text-align: justify;
+    vertical-align: middle;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
