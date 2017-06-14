@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>LGP Consultoria</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/stylish-portfolio.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
+    <nav id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
+            <li class="sidebar-brand">
+                <a href="#top" onclick=$("#menu-close").click();>Menu</a>
+            </li>
+            <li>
+                <a href="#top" onclick=$("#menu-close").click();>Home</a>
+            </li>
+            <li>
+                <a href="#about" onclick=$("#menu-close").click();>Sobre</a>
+            </li>
+            <li>
+                <a href="#services" onclick=$("#menu-close").click();>Serviços</a>
+            </li>
+            <li>
+                <a href="#portfolio" onclick=$("#menu-close").click();>Portfólio</a>
+            </li>
+            <li>
+                <a href="#contact" onclick=$("#menu-close").click();>Contatos</a>
+            </li>
+        </ul>
+    </nav>
+
+    <!-- Header -->
+    <header id="top" class="header2">
+        <div class="text-vertical-center">
+            <h1>LGP Consultoria</h1>
+            <h3>Assessoria e Consultoria</h3>
+        </div>
+    </header>
+
+    <!-- Services -->
+    <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
+    <section id="assessoria" class="services bg-primary">
+        <div class="container">
+            <div class="row text-center">
+                <div>
+                    <h2>Assessoria</h2>
+                    <hr class="small">
+                    <div class="row">
+                    <img src="img/assessoria.png" alt="">
+                        <div class="text-justify">
+                        <br>
+                            <p>A assessoria é a ação e o efeito de assessorar. A noção de assessoria está vinculada à de consultoria, que, em latim (consultus) significa precisamente “assessoria”.</p>
+
+<p>Neste sentido, pode-se dizer que um consultor é um especialista em determinado tema que presta aconselhamento e assistência sobre a sua área de experiência.</p>
+
+<p>Atuamos na assessoria como terceirizados para elaboração, formalização e acompanhamento de contratos, otimização dos serviços já prestados além do direcionamento para globalização das empresas.</p>
+
+<p>Reunimos condições para processo de homologação para prestação de serviços em médias e grandes empresas, instalação e acompanhamento de pontos de negócios além de fornecimento de tecnologia VOIP para comunicação de dados e voz.</p>
+
+<p>Através da nossa rede internacional de contatos organizamos e desenvolvemos projetos de apoio à internacionalização de empresas, desenhados para promoverem verdadeiras oportunidades de mercado.</p>
+
+<p>Apoiamos empresas que pretendam soluções para os seus negócios no mercado internacional, apostando em estratégias de procura de:</p> 
+
+</br>
+
+<ul>
+
+<li>Gestão de Negócios </li>
+<li>Novos mercados para <b>distribuição de produtos</b>; </li>
+<li>Novos mercados para <b>negociação de matérias-primas, componentes e/ou produtos</b>; </li>
+<li>Potenciais <b>Fornecedores, Clientes e/ou Parceiros; </li>
+Criação de <b>unidades de produção / distribuição</b> próprias no Exterior. Este serviços de apoio à <li>internacionalização é dedicado a: </li>
+<li><b>mpresas nacionais</b> que pretendam desenvolverem-se em mercados exteriores; e </li>
+<li><b>Empresas internacionais</b> que tem pretensão de investir em mercados internacionais, nomeadamente Brasil. </li>
+
+ 		    <h2>Gestão de Negócios</h2>
+                    <hr class="small">
+                    <div class="row">
+  	
+                    <div class="text-justify">
+                        <br>
+                           
+
+
+<p><li><b>Gestão de Pessoas</b></p>
+
+<p>Administrar ou gerenciar uma organização requer, atualmente, muito mais do que as funções de planejar, organizar e controlar. As ameaças, a concorrência, as rápidas mudanças no contexto socioeconômico requerem do gestor habilidades humanas em alto grau de refinamento, que podem ser apreendidas com a busca pela compreensão do comportamento individual e dos grupos em situação de trabalho – o que constitui o campo de estudo do comportamento organizacional.</p>
+
+<p>Um gestor que compreenda o comportamento organizacional estará melhor preparado para conhecer as situações de trabalho, a lidar com os problemas organizacionais, e ajudar as pessoas e grupos a alcançarem seus objetivos de maneira mais eficaz possível.</p>
+
+<p>Assim, conhecer os aspectos que influenciam o comportamento das pessoas no trabalho pode ajudar as organizações a se tornarem mais produtivas e lucrativas.</p>
+<p>Para apoiar o departamento de Gestão de Pessoas, instruímos o desenvolvimento das seguintes ações: </p>
+<p><b>I</b> - Formação e Desenvolvimento de Competências;</p>
+<p><b>II</b> - Avaliação da Performance dos RH;</p>
+<p><b>III</b> - Gestão de Talentos humanos;</p>
+<p><b>IV</b> - Coaching;</p>
+<p><b>V</b> - Gestão da Estrutura Organizacional;</p>
+<p><b>VI</b> - Mudança Organizacional;</p>
+<p><b>VII</b> - Processos de decisão;</p>
+<p><b>VIII</b> - Reengenharia de Processos;</p>
+<p><b>IX</b> - Cultura organizacional;</p>
+<p><b>X</b> - Comunicação organizacional;</p>
+
+<p>Clima organizacional
+
+<p>Em ambientes competitivos e de mudanças constantes – como o atual das organizações – para promover o desenvolvimento integral, visando enfrentar seus desafios constantes, as organizações devem, além de aplicar seus esforços na satisfação do cliente externo, também direcioná-los para o cliente interno – o colaborador, considerando que sua satisfação contribuirá com a satisfação do cliente externo, gerando maiores resultados.</p>
+
+<p>Reconhece-se assim, a importância das pessoas nesse processo e, ao estudar este papel, ingressamos no âmbito do Comportamento Organizacional, uma vez que o mesmo tem como objetivo compreender esse sistema social, denominado organização, do ponto de vista formal e informal, bem como entender os mecanismos que influenciam o comportamento individual e coletivo (ROBBINS, 2002).</p>
+
+<p>Trabalhamos o Clima organizacional para busca de um desempenho organizacional excelente, e é fundamental que as pessoas estejam comprometidas com os objetivos e metas da organização e que estejam satisfeitas com ambiente de trabalho. Dentro desse contexto, surge o conceito de clima organizacional, que se refere ao ambiente que envolve todos os participantes da empresa, e que está intensamente relacionado com o grau de motivação de seus participantes – à percepção daqueles aspectos que promovem diferentes comportamentos nos indivíduos integram a organização.</p>
+
+<p>Assim, o Clima Organizacional constitui o meio interno de uma organização, a atmosfera psicológica e característica que existe em cada uma delas.</p>
+
+
+<p><b>Equipes de alta Performance</b></p>
+
+<p>À medida que o ambiente de competitividade e globalização atinge as organizações/instituições, aumentam as demandas e as pressões, e estruturas de trabalho e negócios tradicionais precisam se transformar gradativamente em sistemas baseados em equipes.</p>
+
+<p>Utilizar um sistema baseado em equipes não constitui uma transformação radical, uma vez que os empregados sempre tiveram contato entre si; mas desta forma é possível coordenar e aproveitar melhor suas interações, e ainda estimular as pessoas a trabalharem efetivamente para objetivos comuns.</p>
+
+<p>A utilização de equipes de trabalho nas organizações tem se popularizado e são inúmeras as situações que podem justificar o seu uso, como trabalhos e projetos que:</p>
+
+<li>Exigem a combinação de conhecimentos, especialidades e perspectivas que não são encontrados em um único individuo;</li>
+<li>Demandam pessoas que sejam altamente interdependentes, a fim de realizar um trabalho e atingir um objetivo comum;</li>
+<li>Apresentam um desafio significativo para todos os componentes; ou seja, algo que desperte o potencial de cada indivíduo e direcione suas emoções e competência no sentido desejado (REIS et al, 2005).</li>
+
+<p>Os benefícios da utilização de equipes de trabalho são vários, dentre os quais, podemos citar:</p>
+
+<li>Melhoria do desempenho;</li>
+<li>O ambiente torna-se mais motivador;</li>
+<li>A responsabilidade pelas tarefas é compartilhada;</li>
+<li>Habilidade de reagir mais prontamente em face de mudanças tecnológicas;</li>
+<li>Uso eficaz dos poderes delegados;</li>
+<li>Compromisso compartilhado com os objetivos;</li>
+<li>Aumento da criatividade e eficácia ao lidar com problemas;</li>
+<li>Maior habilidade e flexibilidade ao fazer designações de tarefas;</li>
+<li>Decisões mais eficazes;</li>
+<li>Melhoria nas comunicações; e/ou,</li>
+<li>Incremento do treinamento e desenvolvimento interfuncional.</li>
+
+<p>Estas vantagens originam-se principalmente na sinergia das habilidades e experiência dos membros. Estamos dispostos e prontos a construir e/ou orientar sua equipe de sucesso.</p>
+<p>Maximize o potencial da sua empresa, queremos ajudá-lo a crescer!</p>
+
+
+
+
+
+
+
+
+
+
+
+</ul>
+
+
+                                
+                            <br>
+                        </div>        
+                            <div>
+                                <a href="index.html#services" class="btn btn-light">Principal</a>
+                            </div>                
+                    </div>
+                    <!-- /.row (nested) -->
+                </div>
+                <!-- /.col-lg-10 -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <h4><strong>Contatos</strong>
+                    </h4>
+                    <p>Av. Epitácio Pessoa,753 sl407
+                        <br>João Pessoa, PB</p>
+                    <ul class="list-unstyled">
+                        <li><i class="fa fa-phone fa-fw"></i> (+55)83 3034-9102</li>
+                        <li><i class="fa fa-phone fa-fw"></i> (+55)83 981 923 950</li>
+                        <li><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:contato@lgpconsultoria.com.br">contato@lgpconsultoria.com.br</a>
+                        </li>
+                    </ul>
+                    <br>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="#"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-dribbble fa-fw fa-3x"></i></a>
+                        </li>
+                    </ul>
+                    <hr class="small">
+                    <p class="text-muted">Copyright &copy; LGP Consultoria 2017</p>
+                </div>
+            </div>
+        </div>
+        <a id="to-top" href="#top" class="btn btn-dark btn-lg"><i class="fa fa-chevron-up fa-fw fa-1x"></i></a>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script>
+    // Closes the sidebar menu
+    $("#menu-close").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+    // Opens the sidebar menu
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+    // Scrolls to the selected menu item on the page
+    $(function() {
+        $('a[href*=#]:not([href=#],[data-toggle],[data-target],[data-slide])').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    //#to-top button appears after scrolling
+    var fixed = false;
+    $(document).scroll(function() {
+        if ($(this).scrollTop() > 250) {
+            if (!fixed) {
+                fixed = true;
+                // $('#to-top').css({position:'fixed', display:'block'});
+                $('#to-top').show("slow", function() {
+                    $('#to-top').css({
+                        position: 'fixed',
+                        display: 'block'
+                    });
+                });
+            }
+        } else {
+            if (fixed) {
+                fixed = false;
+                $('#to-top').hide("slow", function() {
+                    $('#to-top').css({
+                        display: 'none'
+                    });
+                });
+            }
+        }
+    });
+    // Disable Google Maps scrolling
+    // See http://stackoverflow.com/a/25904582/1607849
+    // Disable scroll zooming and bind back the click event
+    var onMapMouseleaveHandler = function(event) {
+        var that = $(this);
+        that.on('click', onMapClickHandler);
+        that.off('mouseleave', onMapMouseleaveHandler);
+        that.find('iframe').css("pointer-events", "none");
+    }
+    var onMapClickHandler = function(event) {
+            var that = $(this);
+            // Disable the click handler until the user leaves the map area
+            that.off('click', onMapClickHandler);
+            // Enable scrolling zoom
+            that.find('iframe').css("pointer-events", "auto");
+            // Handle the mouse leave event
+            that.on('mouseleave', onMapMouseleaveHandler);
+        }
+        // Enable map zooming with mouse scroll when the user clicks the map
+    $('.map').on('click', onMapClickHandler);
+    </script>
+
+</body>
+
+</html>

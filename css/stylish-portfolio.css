@@ -17,8 +17,32 @@ body {
 }
 
 
-.text-justify {
-    display: table-cell;
+.fundo-azul{
+    color: inherit;
+    text-decoration: underline;
+}
+.corpo-texto-central{
+    margin: auto;
+    width: 75%;
+   
+    /*border: 3px solid green;*/
+    padding: 10px;
+
+}
+.texto-central h3 {        
+    font-size: 18px;
+    text-align: center;
+}
+
+
+.texto-central p {        
+    font-size: 15px;
+    text-align: justify;
+    line-height: 1.8;
+}
+
+
+.text-justify {    
     text-align: justify;
     vertical-align: middle;
 }
