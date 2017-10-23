@@ -41,19 +41,16 @@
                 <a href="#top" onclick=$("#menu-close").click();>Menu</a>
             </li>
             <li>
-                <a href="#top" onclick=$("#menu-close").click();>Home</a>
+                <a href="index.html" onclick=$("#menu-close").click();>Home</a>
             </li>
             <li>
-                <a href="#about" onclick=$("#menu-close").click();>Sobre</a>
+                <a href="correspondente-bancario.html" onclick=$("#menu-close").click();>Correspondente Banc√°rio</a>
             </li>
             <li>
-                <a href="#services" onclick=$("#menu-close").click();>ServiÁos</a>
+                <a href="microcredito-bradesco.html" onclick=$("#menu-close").click();>Microcr√©dito Bradesco</a>
             </li>
             <li>
-                <a href="#portfolio" onclick=$("#menu-close").click();>PortfÛlio</a>
-            </li>
-            <li>
-                <a href="#contact" onclick=$("#menu-close").click();>Contatos</a>
+                <a href="/clientes.html" onclick=$("#menu-close").click();>Clientes</a>
             </li>
         </ul>
     </nav>
@@ -79,9 +76,9 @@
 <br>
 <p><b>PROJETOS PARA FUNDOS DE INVESTIMENTO</b></p>
 
-Realizamos projetos de viabilidade Financeira, EconÙmica e mapeamento de ·rea;
+Realizamos projetos de viabilidade Financeira, Econ√¥mica e mapeamento de √°rea;
 
-Desenvolvemos o seu Palno de NegÛcios e acompanhamos a execuÁ„o para o sucesso do seu projeto;
+Desenvolvemos o seu Palno de Neg√≥cios e acompanhamos a execu√ß√£o para o sucesso do seu projeto;
 
 Direcionamos esse projeto para fundos de investimentos;
  
@@ -110,11 +107,11 @@ Direcionamos esse projeto para fundos de investimentos;
                 <div class="col-lg-10 col-lg-offset-1 text-center">
                     <h4><strong>Contatos</strong>
                     </h4>
-                    <p>Av. Epit·cio Pessoa,753 sl407
-                        <br>Jo„o Pessoa, PB</p>
+                    <p>Rua Jo√£o Vieira Carneiro, 101
+                        <br>Jo√£o Pessoa, PB</p>
                     <ul class="list-unstyled">
-                        <li><i class="fa fa-phone fa-fw"></i> (+55)83 3034-9102</li>
-                        <li><i class="fa fa-phone fa-fw"></i> (+55)83 981 923 950</li>
+                        <li><i class="fa fa-phone fa-fw"></i> (+55)83 98901-8826</li>
+                        <li><i class="fa fa-phone fa-fw"></i> (+55)83 98192-3950</li>
                         <li><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:contato@lgpconsultoria.com.br">contato@lgpconsultoria.com.br</a>
                         </li>
                     </ul>
